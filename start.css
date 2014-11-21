@@ -1,0 +1,109 @@
+body{
+	background-color: #292929;
+}
+
+h1{
+	font-family: Helvetica;
+	font-size: 22px;
+	color: #6D6D6D;
+}
+
+a{
+    line-height: 180%;
+    padding: 2px;
+    text-decoration: none;
+
+}
+a:link {
+    color :#5A5A5A ;
+}
+a:visited {
+    color : #5A5A5A ;
+}
+a:active {
+	color: #5A5A5A;
+}
+a:hover {
+    color : #6D6D6D;;
+}
+
+.title{
+	width: 80%;
+	height: 125px;
+	border-right: #292929 solid 2px;
+	border-left: #292929 solid 2px;
+	border-bottom: #333333 solid 2px;
+	border-top: #333333 solid 2px;
+	background: #292929;
+	border-radius: 0px;
+	margin-top: 100px;
+	margin-left: 9%;
+	padding: 2px;
+}
+
+.title_text{
+	margin-top: 80px;
+	text-align: center;
+	font-family: 'Noto Serif', italic, serif;
+	font-size: 90px;
+	vertical-align: middle;
+	color: #6D6D6D;
+	margin-top: 12px;
+}
+
+.cat{
+	width: 80%;
+	height: 225px; 
+	border-right: #292929 solid 2px; 
+	border-left: #292929 solid 2px;  
+	border-bottom: #333333 solid 2px;
+	border-top: #333333 solid 2px;
+	background: #292929; 
+	font-size: 18px; 
+	color: #5A5A5A; 
+	margin-left: 9%;
+	border-radius: 0px;
+	margin-top: 25px;
+	padding: 2px;
+	font-family: helvetica;
+}
+input{
+	width: 80%;
+	border-right: #292929 solid 2px;
+	border-left: #292929 solid 2px;
+	border-bottom: #333333 solid 2px;
+	border-top: #292929 solid 2px;
+	background: #292929;
+	font-size: 15px;
+	color: #6D6D6D;
+	padding: 2px;
+	margin-left: 9%;
+}
+
+.chan{
+	width: 20%;
+	height: auto;
+	margin-left: 12%;
+	margin-top: 25px;
+}
+
+.social{
+        width: 20%;
+        height: auto;
+        margin-left: 32%;
+	margin-top: -189px;
+}
+
+.school{
+        width: 20%;
+        height: auto;
+        margin-left: 52%;
+        margin-top: -188px;
+}
+
+.misc{
+        width: 20%;
+        height: auto;
+        margin-left: 72%;
+        margin-top: -189px;
+}
