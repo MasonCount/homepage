@@ -3,4 +3,4 @@ homepage
 
 Current homepage
 
-![ScreenShot](/screenshot/current.png)
+![ScreenShot](http://masonis.me/upload/current.png)
